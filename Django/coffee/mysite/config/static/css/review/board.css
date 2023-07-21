@@ -1,0 +1,22 @@
+/* font-family: 'Noto Sans KR', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
+
+/*
+font-family: 'Stylish', sans-serif;
+*/
+@import url('https://fonts.googleapis.com/css2?family=Stylish&display=swap');
+
+.board_text {
+    font-family: 'Stylish', sans-serif;
+    font-size: large;
+    text-align: center;
+    color: #6f4415;
+    letter-spacing: 3px;
+}
+
+.board_contents {
+    font-family: 'Noto Sans KR', sans-serif;
+    text-align: center;
+    color: #6f4415;
+    letter-spacing: 3px;
+}

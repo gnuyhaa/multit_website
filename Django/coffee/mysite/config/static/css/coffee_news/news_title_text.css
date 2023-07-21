@@ -1,0 +1,41 @@
+/*
+font-family: 'Noto Sans KR', sans-serif;
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
+
+/*
+font-family: 'Stylish', sans-serif;
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Stylish&display=swap');
+
+/*
+font-family: 'Nanum Gothic', sans-serif;
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+
+.news_title {
+    font-size: 35px;
+    font-family: 'Stylish', sans-serif;
+    text-align: center;
+    margin-bottom: 5px;
+    letter-spacing: 4px;
+    font-weight: bolder;
+}
+
+.news_table_th {
+    font-size: 15px;
+    font-family: 'Noto Sans KR', sans-serif;
+    text-align: center;
+    letter-spacing: 3px;
+    font-weight: bold;
+}
+
+.news_table_td {
+    font-size: 15px;
+    font-family: 'Nanum Gothic', sans-serif;
+    text-align: left;
+    font-weight: 500;
+}

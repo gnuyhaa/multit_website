@@ -1,0 +1,68 @@
+/* font-family: 'Noto Sans KR', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
+
+/*
+font-family: 'Stylish', sans-serif;
+*/
+@import url('https://fonts.googleapis.com/css2?family=Stylish&display=swap');
+
+.comment_title {
+    font-family: 'Stylish', sans-serif;
+    text-align: left;
+    color: #6f4415;
+    margin: 30px 0 5px 30px;
+    letter-spacing: 3px;
+}
+
+.table_th {
+    font-size: 20px;
+    font-family: 'Stylish', sans-serif;
+    color: #6f4415;
+    letter-spacing: 3px;
+}
+
+.comment_contentbox {
+    font-family: 'Noto Sans KR', sans-serif;
+    letter-spacing: 2px;
+    border: 1px solid #6f4415;
+    text-align: left;
+    margin: 15px 0 15px 30px;
+    border-radius: 2px;
+    width: 80%;
+    height: 20%;  
+    padding: 10px; 
+}
+
+.comment_content{
+    font-family: 'Noto Sans KR', sans-serif;
+    letter-spacing: 2px;
+    list-style-type: none;
+}
+
+
+.comment_numb {
+    font-family: 'Noto Sans KR', sans-serif;
+    color: #6f4415;
+    text-align: left;
+    margin: 0 0 0 30px;
+    letter-spacing: 1px;
+}
+
+.review_title {
+    font-family: 'Stylish', sans-serif;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    color: #331e07
+}
+
+textarea {
+    font-family: 'Noto Sans KR', sans-serif;
+    width: 80%;
+    height: 10%;
+    resize: none;
+    border: 1px solid #6f4415;
+    border-radius: 2px;
+    margin: 0 0 0px 30px;
+    letter-spacing: 3px;
+
+}
